@@ -1,4 +1,4 @@
-hello nihao  hadoop hadoop hello
+hello nihao hadoop hadoop hello
 hadoop hadoop spark spark
 flink flink scala java python
 hello

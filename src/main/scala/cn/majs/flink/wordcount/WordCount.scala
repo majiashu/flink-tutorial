@@ -13,7 +13,7 @@ object WordCount {
 
   def main(args: Array[String]): Unit = {
 
-    // 创建环境变量
+    // 批处理的执行环境
     val env: ExecutionEnvironment = ExecutionEnvironment.getExecutionEnvironment
 
     val inputPath: String = "src/main/resources/word.txt"
